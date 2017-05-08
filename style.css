@@ -1,0 +1,11 @@
+video{
+    float: left;
+}
+caanvas{
+    float: right;
+}
+#score{
+    text-align: center;
+    font-family: monospace;
+    font-size: 64px;
+}
